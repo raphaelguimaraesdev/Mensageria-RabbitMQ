@@ -1,0 +1,14 @@
+D:\DEV\Mensageria\Device.API\bin\Debug\netcoreapp2.1\Device.API.deps.json
+D:\DEV\Mensageria\Device.API\bin\Debug\netcoreapp2.1\Device.API.runtimeconfig.json
+D:\DEV\Mensageria\Device.API\bin\Debug\netcoreapp2.1\Device.API.runtimeconfig.dev.json
+D:\DEV\Mensageria\Device.API\bin\Debug\netcoreapp2.1\Device.API.dll
+D:\DEV\Mensageria\Device.API\bin\Debug\netcoreapp2.1\Device.API.pdb
+D:\DEV\Mensageria\Device.API\obj\Debug\netcoreapp2.1\Device.API.csprojAssemblyReference.cache
+D:\DEV\Mensageria\Device.API\obj\Debug\netcoreapp2.1\Device.API.csproj.CoreCompileInputs.cache
+D:\DEV\Mensageria\Device.API\obj\Debug\netcoreapp2.1\Device.API.RazorAssemblyInfo.cache
+D:\DEV\Mensageria\Device.API\obj\Debug\netcoreapp2.1\Device.API.RazorAssemblyInfo.cs
+D:\DEV\Mensageria\Device.API\obj\Debug\netcoreapp2.1\Device.API.AssemblyInfoInputs.cache
+D:\DEV\Mensageria\Device.API\obj\Debug\netcoreapp2.1\Device.API.AssemblyInfo.cs
+D:\DEV\Mensageria\Device.API\obj\Debug\netcoreapp2.1\Device.API.RazorTargetAssemblyInfo.cache
+D:\DEV\Mensageria\Device.API\obj\Debug\netcoreapp2.1\Device.API.dll
+D:\DEV\Mensageria\Device.API\obj\Debug\netcoreapp2.1\Device.API.pdb

@@ -1,0 +1,9 @@
+D:\DEV\Mensageria\Mensageria.Server\bin\Debug\netcoreapp2.1\Mensageria.Server.deps.json
+D:\DEV\Mensageria\Mensageria.Server\bin\Debug\netcoreapp2.1\Mensageria.Server.dll
+D:\DEV\Mensageria\Mensageria.Server\obj\Debug\netcoreapp2.1\Mensageria.Server.csproj.CoreCompileInputs.cache
+D:\DEV\Mensageria\Mensageria.Server\obj\Debug\netcoreapp2.1\Mensageria.Server.AssemblyInfoInputs.cache
+D:\DEV\Mensageria\Mensageria.Server\obj\Debug\netcoreapp2.1\Mensageria.Server.AssemblyInfo.cs
+D:\DEV\Mensageria\Mensageria.Server\obj\Debug\netcoreapp2.1\Mensageria.Server.csprojAssemblyReference.cache
+D:\DEV\Mensageria\Mensageria.Server\bin\Debug\netcoreapp2.1\Mensageria.Server.pdb
+D:\DEV\Mensageria\Mensageria.Server\obj\Debug\netcoreapp2.1\Mensageria.Server.dll
+D:\DEV\Mensageria\Mensageria.Server\obj\Debug\netcoreapp2.1\Mensageria.Server.pdb
